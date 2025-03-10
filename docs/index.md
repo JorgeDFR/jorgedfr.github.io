@@ -1,4 +1,4 @@
-# Ricardo B. Sousa Personal Webpage
+# Jorge Diogo Ribeiro Personal Webpage
 
 ## Identifiers
 
