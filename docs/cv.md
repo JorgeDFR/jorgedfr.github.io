@@ -56,7 +56,7 @@
 
 - September 2022 - July 2024
 - _GPA:_ 17.95/20
-- MSc Thesis in Odometry and Extrinsic Sensor Calibration on Mobile Robots
+- MSc Thesis in Trajectory Control and Collision Avoidance for a Mobile Robot
   (DOI: [10.13140/RG.2.2.18652.09609](http://dx.doi.org/10.13140/RG.2.2.18652.09609))
 - _Supervisors:_
     - Prof. Dr. António Paulo Moreira
