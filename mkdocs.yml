@@ -1,0 +1,100 @@
+site_name: Jorge Diogo Ribeiro Personal Webpage
+site_url: https://jorgedfr.github.io/
+# site_url: https://127.0.0.1:10000
+
+plugins:
+  - search
+
+theme:
+  name: material
+  features:
+    - content.code.copy
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: light blue
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: light blue
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+extra:
+  # generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/JorgeDFR
+      name: GitHub @jorgedfr
+    # - icon: fontawesome/brands/gitlab
+    #   link: https://gitlab.com/TODO
+    #   name: GitLab @jorgedfr
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.inesctec.pt/jorge.d.ribeiro
+      name: GitLab INESC TEC @jorge.d.ribeiro
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0009-0008-9373-982X
+      name: ORCiD
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.pt/citations?user=xp6I4DMAAAAJ&hl
+      name: Google Scholar
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jorge-diogo-ribeiro
+      name: LinkedIn
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCqGAuSvxXoLepWwcWZeTE8g
+      name: YouTube Channel @JorgeDRibeiro
+
+nav:
+  - Home: index.md
+  - CV: cv.md
+  - Research: research.md
+  - Projects: projects.md
+  - Teaching: teaching.md
+  - Publications: publications.md
+  - Open-Source: open-source.md
+  - Awards: awards.md
+
+markdown_extensions:
+  - def_list
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_javascript:
+  # - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
