@@ -53,7 +53,7 @@
 (Porto, Portugal)
 
 - September 2022 - July 2024
-- _GPA:_ 17.95/20 - (Grade A - Top 10% of students)
+- _GPA:_ 17.95/20 - (3rd out of 148 students)
 - MSc Thesis in Trajectory Control and Collision Avoidance for a Mobile Robot
   (DOI: [10.13140/RG.2.2.18652.09609](http://dx.doi.org/10.13140/RG.2.2.18652.09609))
 - _Supervisors:_
@@ -67,7 +67,7 @@
 (Porto, Portugal)
 
 - September 2019 - July 2022
-- _GPA:_ 18.16/20 - (Grade A - Top 10% of students)
+- _GPA:_ 18.16/20 - (1st out of 216 students)
 
 **Sciences and Technologies Course @**
 **[Escola Secundária de Paços de Ferreira](https://espf.edu.pt/)**
