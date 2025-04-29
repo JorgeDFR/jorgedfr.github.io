@@ -124,14 +124,14 @@ DOI: [10.1109/ICARSC65809.2025.10970166](https://doi.org/10.1109/ICARSC65809.202
 Lopes, M.S., Ribeiro, J.D., Moreira, A.P., Rocha, C.D., Martins, J.G., Sarmento, J.M., Carvalho, J.P., Costa, P.G., & Sousa, R.B. (2025).
 _From Competition to Classroom: A Hands-on Approach to Robotics Learning_.
 In: 2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC), 
-_in press_. <!-- pp. <pages xxx-xxx>. -->
-DOI: [N/A](https://doi.org/).
+pp. 170-176.
+DOI: [10.1109/ICARSC65809.2025.10970153](https://doi.org/10.1109/ICARSC65809.2025.10970153).
 
 Ribeiro, J.D., Sobreira, H.M., & Moreira, A.P. (2024).
 _A Nonlinear Model Predictive Control Strategy for Trajectory Tracking of Omnidirectional Robots_.
 In: 16th APCA International Conference on Automatic Control and Soft Computing (CONTROLO 2024), 
-_in press_. <!-- pp. <pages xxx-xxx>. -->
-DOI: [N/A](https://doi.org/).
+pp. 268-279.
+DOI: [10.1007/978-3-031-81724-3_25](https://doi.org/10.1007/978-3-031-81724-3_25).
 
 See more in [Publications](publications.md).
 
