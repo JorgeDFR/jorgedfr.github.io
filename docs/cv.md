@@ -115,11 +115,11 @@ IEEE Access,
 DOI: [TBC](https://doi.org/TBC).
 URL: [TBC](TBC) -->
 
-Ribeiro, J.D., Brilhante, M., Matos, D.M., Sobreira, H.M., Costa, P.G., & Silva, C.A. (2025).
+Ribeiro, J.D., Brilhante, M., Matos, D.M., Silva, C.A, Sobreira, H.M., & Costa, P.G. (2025).
 _Parallel Path Planning for Multi-Robot Coordination_.
 In: 2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC),
-_in press_. <!-- pp. <pages xxx-xxx>. -->
-DOI: [N/A](https://doi.org/).
+pp. 78-85.
+DOI: [10.1109/ICARSC65809.2025.10970166](https://doi.org/10.1109/ICARSC65809.2025.10970166).
 
 Lopes, M.S., Ribeiro, J.D., Moreira, A.P., Rocha, C.D., Martins, J.G., Sarmento, J.M., Carvalho, J.P., Costa, P.G., & Sousa, R.B. (2025).
 _From Competition to Classroom: A Hands-on Approach to Robotics Learning_.
