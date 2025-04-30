@@ -1,5 +1,7 @@
 # Jorge Diogo Ribeiro Personal Webpage
 
+![Jorge Diogo Ribeiro Photography](assets/index/photo_inesctec_16-9-ratio.jpg)
+
 ## Identifiers
 
 - CiênciaVITAE: [E415-F9DE-95FC](https://www.cienciavitae.pt/E415-F9DE-95FC)

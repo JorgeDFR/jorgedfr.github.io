@@ -1,6 +1,14 @@
 site_name: Jorge Diogo Ribeiro Personal Webpage
 site_url: https://jorgedfr.github.io
-# site_url: https://127.0.0.1:10000
+site_author: Jorge Diogo Ribeiro
+
+# Repository
+repo_name: jorgedfr/jorgedfr.github.io
+repo_url: https://github.com/jorgedfr/jorgedfr.github.io
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: Copyright &copy; 2025 Jorge Diogo Ribeiro
 
 plugins:
   - search
@@ -8,36 +16,49 @@ plugins:
 theme:
   name: material
   features:
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
     - content.code.copy
+    - navigation.footer
+    - navigation.indexes
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
-    - navigation.expand
-    - navigation.path
-    - navigation.prune
-    - navigation.indexes
+    - navigation.tabs
     - navigation.top
-    - toc.follow
-    - toc.integrate
-    - search.suggest
+    - navigation.tracking
     - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
   palette:
-    - media: "(prefers-color-scheme: light)"
-      primary: light blue
-      scheme: default
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/brightness-7
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: jorgedfr
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
-      primary: light blue
       scheme: slate
+      primary: black
+      accent: indigo
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off
         name: Switch to system preference
+  font:
+    text: Red Hat Text
+    code: JetBrains Mono
+  #favicon: assets/logo/todo.svg
+  #logo: assets/logo/todo.svg
 
+# Additional configuration
 extra:
   # generator: false
   social:
@@ -63,6 +84,41 @@ extra:
       link: https://www.youtube.com/channel/UCqGAuSvxXoLepWwcWZeTE8g
       name: YouTube Channel @JorgeDRibeiro
 
+# Markdown extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.pathconverter:
+      base_path: "jorgedfr/jorgedfr.github.io"
+      relative_path: ""
+      absolute: false
 nav:
   - Home: index.md
   - CV: cv.md
@@ -73,28 +129,11 @@ nav:
   - Open-Source: open-source.md
   - Awards: awards.md
 
-markdown_extensions:
-  - def_list
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tasklist:
-      custom_checkbox: true
 
 extra_javascript:
-  # - javascripts/katex.js
   - https://unpkg.com/katex@0/dist/katex.min.js
   - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
 extra_css:
   - https://unpkg.com/katex@0/dist/katex.min.css
+  - stylesheets/extra.css

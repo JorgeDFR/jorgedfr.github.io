@@ -137,6 +137,6 @@ See more in [Publications](publications.md).
 
 ## Awards
 
-TBC
+Best CTM Summer Internship 2022 at INESC-TEC, Porto, Portugal, July 2022
 
 See more in [Awards](awards.md).
