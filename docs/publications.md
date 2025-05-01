@@ -18,7 +18,7 @@ _Parallel Path Planning for Multi-Robot Coordination_.
 In: 2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC),
 pp. 78-85. Madeira, Portugal.
 [[doi]](https://doi.org/10.1109/ICARSC65809.2025.10970166)
-[[preprint]](https://doi.org/10.13140/RG.2.2.15702.97609/1)
+[[preprint]](https://www.researchgate.net/publication/389781124)
 
 Lopes, M.S., Ribeiro, J.D., Moreira, A.P., Rocha, C.D., Martins, J.G., Sarmento, J.M., Carvalho, J.P., Costa, P.G., & Sousa, R.B. (2025).
 _From Competition to Classroom: A Hands-on Approach to Robotics Learning_.
