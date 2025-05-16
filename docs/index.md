@@ -8,8 +8,8 @@
 - ORCiD: [0009-0008-9373-982X](https://orcid.org/0009-0008-9373-982X)
 - AuthenticusID: [R-00M-0N0](https://www.authenticus.pt/R-00M-0N0)
 - Google Scholar: [xp6I4DMAAAAJ&hl](https://scholar.google.com/citations?user=xp6I4DMAAAAJ&hl)
-<!-- - Researcher ID: [TODO](https://www.webofscience.com/wos/author/record/TODO)
-- Scopus Author ID: [TODO](https://www.scopus.com/authid/detail.uri?authorId=TODO) -->
+- Scopus Author ID: [59761532800](https://www.scopus.com/authid/detail.uri?authorId=59761532800)
+<!-- - Researcher ID: [TODO](https://www.webofscience.com/wos/author/record/TODO) -->
 
 ## Links
 
