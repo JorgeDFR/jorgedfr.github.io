@@ -128,7 +128,17 @@ nav:
   - Publications: publications.md
   - Open-Source: open-source.md
   - Awards: awards.md
-
+  - Tools:
+    - tools/index.md
+    - Operating System (OS):
+        - tools/os/index.md
+        - NVIDIA Drivers: tools/os/nvidia.md
+        - Remote Access: tools/os/remote-access.md
+        - Development Environment: tools/os/dev.md
+    - Git: tools/git.md
+    - Docker:
+        - tools/docker/index.md
+        - ROS: tools/docker/ros.md
 
 extra_javascript:
   - https://unpkg.com/katex@0/dist/katex.min.js
