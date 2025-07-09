@@ -88,7 +88,7 @@
       3D LiDAR-based Simultaneous Localization and Mapping,
       Multi-Robot Coordination
 - HfPT: Health from Portugal
-  (September 2024 - Present) 
+  (September 2024 - Present)
     - _ID:_
       [01/C05-i11/2024.PC644937233-00000047](https://transparencia.gov.pt/en/fundos-europeus/prr/beneficiarios-projetos/projeto/01/C05-i11/2024.PC644937233-00000047/)
     - _Research Topics:_
@@ -110,10 +110,10 @@ See more in [Projects](projects.md).
 
 <!-- Ribeiro, J.D., Sousa, R.B., Martins, J.G., Aguiar, A.S., Santos, F.N., & Sobreira, H.M. (2025).
 _Indoor Benchmark of 3D LiDAR SLAM at iilab – Industry and Innovation Laboratory_.
-IEEE Access, 
+IEEE Access,
 **<volume>**(<number>):<pages xxx-xxx>.
-DOI: [TBC](https://doi.org/TBC).
-URL: [TBC](TBC) -->
+DOI: [TBD](https://doi.org/TODO).
+URL: [TBD](https://TODO) -->
 
 Ribeiro, J.D., Brilhante, M., Matos, D.M., Silva, C.A, Sobreira, H.M., & Costa, P.G. (2025).
 _Parallel Path Planning for Multi-Robot Coordination_.
@@ -123,13 +123,13 @@ DOI: [10.1109/ICARSC65809.2025.10970166](https://doi.org/10.1109/ICARSC65809.202
 
 Lopes, M.S., Ribeiro, J.D., Moreira, A.P., Rocha, C.D., Martins, J.G., Sarmento, J.M., Carvalho, J.P., Costa, P.G., & Sousa, R.B. (2025).
 _From Competition to Classroom: A Hands-on Approach to Robotics Learning_.
-In: 2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC), 
+In: 2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC),
 pp. 170-176.
 DOI: [10.1109/ICARSC65809.2025.10970153](https://doi.org/10.1109/ICARSC65809.2025.10970153).
 
 Ribeiro, J.D., Sobreira, H.M., & Moreira, A.P. (2024).
 _A Nonlinear Model Predictive Control Strategy for Trajectory Tracking of Omnidirectional Robots_.
-In: 16th APCA International Conference on Automatic Control and Soft Computing (CONTROLO 2024), 
+In: 16th APCA International Conference on Automatic Control and Soft Computing (CONTROLO 2024),
 pp. 268-279.
 DOI: [10.1007/978-3-031-81724-3_25](https://doi.org/10.1007/978-3-031-81724-3_25).
 

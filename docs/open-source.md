@@ -24,8 +24,8 @@ Links:
 - _GitHub (Benchmark + Docs):_ [jorgedfr/3d\_lidar\_slam\_benchmark\_at\_iilab](https://github.com/jorgedfr/3d_lidar_slam_benchmark_at_iilab)
 - _GitHub (Toolkit):_ [jorgedfr/iilabs3d-toolkit](https://github.com/jorgedfr/iilabs3d-toolkit)
 - _DOI (Dataset):_ [10.25747/VHNJ-WM80](https://doi.org/10.25747/VHNJ-WM80)
-- _DOI (Paper):_ [TBC](https://doi.org/TBC)
-- _Preprint:_ [TBC](https://doi.org/TBC)
+- _DOI (Paper):_ [TBD](https://doi.org/TODO)
+- _Preprint:_ [TBD](https://doi.org/TODO)
 
 Citation (Dataset):
 
@@ -40,4 +40,4 @@ Citation (Dataset):
 > (2025).
 > _Indoor Benchmark of 3D LiDAR SLAM at iilab – Industry and Innovation Laboratory_.
 > <journal>.
-> DOI: [TBC](https://doi.org/TBC) -->
+> DOI: [TBD](https://doi.org/TODO) -->

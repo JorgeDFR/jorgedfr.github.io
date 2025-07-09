@@ -9,10 +9,10 @@ Ribeiro, J.D., Sousa, R.B., Martins, J.G., Aguiar, A.S., Santos, F.N., & Sobreir
 _Indoor Benchmark of 3D LiDAR SLAM at iilab – Industry and Innovation Laboratory_.
 <journal>,
 **<volume>**(<number>):<pages xxx-xxx>.
-[[doi]](https://doi.org/TBC)
+[[doi]](https://doi.org/TODO)
 [[website]](https://jorgedfr.github.io/3d_lidar_slam_benchmark_at_iilab)
 [[github]](https://github.com/jorgedfr/3d_lidar_slam_benchmark_at_iilab)
-[[preprint]](https://doi.org/TBC)
+[[preprint]](https://doi.org/TODO)
 -->
 
 ## Conference papers
