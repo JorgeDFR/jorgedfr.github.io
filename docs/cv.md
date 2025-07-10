@@ -37,7 +37,7 @@
 
 ## Education
 
-**PhD Candidate in ECE @**
+**PhD Student in ECE @**
 **[Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/)**
 (Porto, Portugal)
 
