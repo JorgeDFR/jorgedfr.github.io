@@ -14,7 +14,7 @@
 ## Links
 
 - [@jorgedfr](https://github.com/jorgedfr) _(GitHub)_
-<!-- - [@TODO](https://gitlab.com/TODO) _(GitLab)_ -->
+- [@jorgedfr](https://gitlab.com/jorgedfr) _(GitLab)_
 - [@jorge.d.ribeiro](https://gitlab.inesctec.pt/jorge.d.ribeiro)
   _(GitLab INESC TEC)_
 - [LinkedIn](https://www.linkedin.com/in/jorge-diogo-ribeiro)
