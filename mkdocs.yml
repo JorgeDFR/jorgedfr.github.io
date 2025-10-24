@@ -65,9 +65,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/JorgeDFR
       name: GitHub @jorgedfr
-    # - icon: fontawesome/brands/gitlab
-    #   link: https://gitlab.com/TODO
-    #   name: GitLab @jorgedfr
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/JorgeDFR
+      name: GitLab @jorgedfr
     - icon: fontawesome/brands/gitlab
       link: https://gitlab.inesctec.pt/jorge.d.ribeiro
       name: GitLab INESC TEC @jorge.d.ribeiro
