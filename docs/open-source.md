@@ -20,23 +20,24 @@ Additionally, a benchmark suite was implemented to evaluate nine state-of-the-ar
 
 Links:
 
+- _DOI (Article):_ [10.1109/ACCESS.2025.3643753](https://doi.org/10.1109/ACCESS.2025.3643753)
+- _DOI (Dataset):_ [10.25747/VHNJ-WM80](https://doi.org/10.25747/VHNJ-WM80)
 - _Website:_ [jorgedfr/3d\_lidar\_slam\_benchmark\_at\_iilab](https://jorgedfr.github.io/3d_lidar_slam_benchmark_at_iilab)
 - _GitHub (Benchmark + Docs):_ [jorgedfr/3d\_lidar\_slam\_benchmark\_at\_iilab](https://github.com/jorgedfr/3d_lidar_slam_benchmark_at_iilab)
 - _GitHub (Toolkit):_ [jorgedfr/iilabs3d-toolkit](https://github.com/jorgedfr/iilabs3d-toolkit)
-- _DOI (Dataset):_ [10.25747/VHNJ-WM80](https://doi.org/10.25747/VHNJ-WM80)
-- _DOI (Paper):_ [10.1109/ACCESS.2025.3643753](https://doi.org/10.1109/ACCESS.2025.3643753)
 
-Citation (Dataset):
-
-> J.D. Ribeiro, R.B. Sousa, J.G. Martins, A.S. Aguiar, F.N. Santos, and H.M. Sobreira,
-> "IILABS 3D: iilab Indoor LiDAR-based SLAM Dataset",
-> [Dataset], INESC TEC, 2025.
-> DOI: [10.25747/VHNJ-WM80](https://doi.org/10.25747/VHNJ-WM80).
-
-Citation (Paper):
+Citation (Article):
 
 > J.D. Ribeiro, R.B. Sousa, J.G. Martins, A.S. Aguiar, F.N. Santos, and H.M. Sobreira,
 > "Indoor Benchmark of 3D LiDAR SLAM at iilab – Industry and Innovation Laboratory".
 > _IEEE Access_,
 > vol. 13, pp. 212421-212442, 2025.
 > DOI: [10.1109/ACCESS.2025.3643753](https://doi.org/10.1109/ACCESS.2025.3643753).
+
+Citation (Dataset):
+
+> J.D. Ribeiro, R.B. Sousa, J.G. Martins, A.S. Aguiar, F.N. Santos, and H.M. Sobreira,
+> 2025,
+> "IILABS 3D: iilab Indoor LiDAR-based SLAM Dataset",
+> INESC TEC.
+> DOI: [10.25747/VHNJ-WM80](https://doi.org/10.25747/VHNJ-WM80).
