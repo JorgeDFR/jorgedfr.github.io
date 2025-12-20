@@ -108,30 +108,28 @@ See more in [Projects](projects.md).
 
 ## Publications
 
-<!-- Ribeiro, J.D., Sousa, R.B., Martins, J.G., Aguiar, A.S., Santos, F.N., & Sobreira, H.M. (2025).
-_Indoor Benchmark of 3D LiDAR SLAM at iilab – Industry and Innovation Laboratory_.
-IEEE Access,
-**<volume>**(<number>):<pages xxx-xxx>.
-DOI: [TBD](https://doi.org/TODO).
-URL: [TBD](https://TODO) -->
+J.D. Ribeiro, R.B. Sousa, J.G. Martins, A.S. Aguiar, F.N. Santos, and H.M. Sobreira,
+"Indoor Benchmark of 3D LiDAR SLAM at iilab – Industry and Innovation Laboratory".
+_IEEE Access_,
+vol. 13, pp. 212421-212442, 2025.
+DOI: [10.1109/ACCESS.2025.3643753](https://doi.org/10.1109/ACCESS.2025.3643753).
 
-Ribeiro, J.D., Brilhante, M., Matos, D.M., Silva, C.A, Sobreira, H.M., & Costa, P.G. (2025).
-_Parallel Path Planning for Multi-Robot Coordination_.
-In: 2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC),
-pp. 78-85.
+J.D. Ribeiro, M. Brilhante, D.M. Matos, C.A. Silva, H.M. Sobreira, and P.G. Costa,
+"Parallel Path Planning for Multi-Robot Coordination",
+_2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)_,
+Madeira, Portugal, 2025, pp. 78-85.
 DOI: [10.1109/ICARSC65809.2025.10970166](https://doi.org/10.1109/ICARSC65809.2025.10970166).
 
-Lopes, M.S., Ribeiro, J.D., Moreira, A.P., Rocha, C.D., Martins, J.G., Sarmento, J.M., Carvalho, J.P., Costa, P.G., & Sousa, R.B. (2025).
-_From Competition to Classroom: A Hands-on Approach to Robotics Learning_.
-In: 2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC),
-pp. 170-176.
-DOI: [10.1109/ICARSC65809.2025.10970153](https://doi.org/10.1109/ICARSC65809.2025.10970153).
-
-Ribeiro, J.D., Sobreira, H.M., & Moreira, A.P. (2024).
-_A Nonlinear Model Predictive Control Strategy for Trajectory Tracking of Omnidirectional Robots_.
-In: 16th APCA International Conference on Automatic Control and Soft Computing (CONTROLO 2024),
-pp. 268-279.
+J.D. Ribeiro, H.M. Sobreira, and A.P. Moreira,
+"A Nonlinear Model Predictive Control Strategy for Trajectory Tracking of Omnidirectional Robots".
+_16th APCA International Conference on Automatic Control and Soft Computing (CONTROLO 2024)_,
+Porto, Portugal, 2024, pp. 268-279.
 DOI: [10.1007/978-3-031-81724-3_25](https://doi.org/10.1007/978-3-031-81724-3_25).
+
+J.D. Ribeiro, R.B. Sousa, J.G. Martins, A.S. Aguiar, F.N. Santos, and H.M. Sobreira,
+"IILABS 3D: iilab Indoor LiDAR-based SLAM Dataset",
+[Dataset], INESC TEC, 2025.
+DOI: [10.25747/VHNJ-WM80](https://doi.org/10.25747/VHNJ-WM80).
 
 See more in [Publications](publications.md).
 

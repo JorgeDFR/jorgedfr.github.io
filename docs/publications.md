@@ -2,40 +2,35 @@
 
 ## Journal articles
 
-TBC
-
-<!--
-Ribeiro, J.D., Sousa, R.B., Martins, J.G., Aguiar, A.S., Santos, F.N., & Sobreira, H.M. (2025).
-_Indoor Benchmark of 3D LiDAR SLAM at iilab – Industry and Innovation Laboratory_.
-<journal>,
-**<volume>**(<number>):<pages xxx-xxx>.
-[[doi]](https://doi.org/TODO)
+J.D. Ribeiro, R.B. Sousa, J.G. Martins, A.S. Aguiar, F.N. Santos, and H.M. Sobreira,
+"Indoor Benchmark of 3D LiDAR SLAM at iilab – Industry and Innovation Laboratory".
+_IEEE Access_,
+vol. 13, pp. 212421-212442, 2025.
+[[doi]](https://doi.org/10.1109/ACCESS.2025.3643753)
 [[website]](https://jorgedfr.github.io/3d_lidar_slam_benchmark_at_iilab)
 [[github]](https://github.com/jorgedfr/3d_lidar_slam_benchmark_at_iilab)
-[[preprint]](https://doi.org/TODO)
--->
 
 ## Conference papers
 
-Ribeiro, J.D., Brilhante, M., Matos, D.M., Silva, C.A, Sobreira, H.M., & Costa, P.G. (2025).
-_Parallel Path Planning for Multi-Robot Coordination_.
-In: 2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC),
-pp. 78-85. Madeira, Portugal.
+J.D. Ribeiro, M. Brilhante, D.M. Matos, C.A. Silva, H.M. Sobreira, and P.G. Costa,
+"Parallel Path Planning for Multi-Robot Coordination",
+_2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)_,
+Madeira, Portugal, 2025, pp. 78-85.
 [[doi]](https://doi.org/10.1109/ICARSC65809.2025.10970166)
 [[preprint]](https://www.researchgate.net/publication/389781124)
 
-Lopes, M.S., Ribeiro, J.D., Moreira, A.P., Rocha, C.D., Martins, J.G., Sarmento, J.M., Carvalho, J.P., Costa, P.G., & Sousa, R.B. (2025).
-_From Competition to Classroom: A Hands-on Approach to Robotics Learning_.
-In: 2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC),
-pp. 170-176. Madeira, Portugal.
+M.S. Lopes, J.D. Ribeiro, A.P. Moreira, C.D. Rocha, J.G. Martins, J.M. Sarmento, J.P. Carvalho, P.G. Costa, and R.B. Sousa,
+"From Competition to Classroom: A Hands-on Approach to Robotics Learning",
+_2025 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)_,
+Madeira, Portugal, 2025, pp. 170-176.
 [[doi]](https://doi.org/10.1109/ICARSC65809.2025.10970153)
 [[github]](https://github.com/5dpo/5dpo_ratf_stem_2025)
 [[preprint]](https://doi.org/10.13140/RG.2.2.33785.17769)
 
-Ribeiro, J.D., Sobreira, H.M., & Moreira, A.P. (2024).
-_A Nonlinear Model Predictive Control Strategy for Trajectory Tracking of Omnidirectional Robots_.
-In: 16th APCA International Conference on Automatic Control and Soft Computing (CONTROLO 2024),
-pp. 268-279. Porto, Portugal.
+J.D. Ribeiro, H.M. Sobreira, and A.P. Moreira,
+"A Nonlinear Model Predictive Control Strategy for Trajectory Tracking of Omnidirectional Robots".
+_16th APCA International Conference on Automatic Control and Soft Computing (CONTROLO 2024)_,
+Porto, Portugal, 2024, pp. 268-279.
 [[doi]](https://doi.org/10.1007/978-3-031-81724-3_25)
 [[preprint]](https://doi.org/10.13140/RG.2.2.34157.91367/1)
 
@@ -45,17 +40,16 @@ TBC
 
 ## Datasets
 
-Ribeiro, J.D., Sousa, R.B., Martins, J.G., Aguiar, A.S., Santos, F.N., & Sobreira, H.M.
-(2025).
-_IILABS 3D: iilab Indoor LiDAR-based SLAM Dataset_.
+J.D. Ribeiro, R.B. Sousa, J.G. Martins, A.S. Aguiar, F.N. Santos, and H.M. Sobreira,
+"IILABS 3D: iilab Indoor LiDAR-based SLAM Dataset",
+[Dataset], INESC TEC, 2025.
 [[doi]](https://doi.org/10.25747/VHNJ-WM80)
 [[github]](https://github.com/jorgedfr/iilabs3d-toolkit)
 
 ## Theses
 
-Ribeiro, J.D. (2024).
-_Trajectory Control and Collision Avoidance for a Mobile Robot_.
-M.Sc. Thesis in
-Electrical and Computers Engineering (ECE) at the
-Faculty of Engineering, University of Porto (FEUP).
+J.D. Ribeiro,
+"Trajectory Control and Collision Avoidance for a Mobile Robot",
+M.Sc. Thesis, Electrical and Computers Engineering,
+University of Porto, Faculty of Engineering, 2024.
 [[url]](https://www.researchgate.net/publication/389701812)
