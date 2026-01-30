@@ -22,18 +22,26 @@
     - Héber Miguel Sobreira, PhD
       ([heber.m.sobreira@inesctec.pt](mailto:heber.m.sobreira@inesctec.pt))
 
-<!-- **Invited Assistant @**
+**Invited Assistant @**
 **[Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/)**
 (Porto, Portugal)
 
-- September 2021 - August 2023
+- September 2025 - August 2026
 - _Courses:_
-    - Software Design (MSc in ECE) (2021/22 1ºS, 2022/23 1ºS)
-    - Industrial Informatics (MSc in ECE) (2021/22 2ºS, 2022/23 2ºS)
+    - Intelligent Robotics (MSc in EIC) ([2025/26 1ºS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=560302))
+    - Topics in Intelligent Robotics (MSc in IA) ([2025/26 2ºS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=559510))
 - _Supervisors:_
     - Prof. Dr. Armando Jorge Sousa ([asousa@fe.up.pt](mailto:asousa@fe.up.pt))
-    - Prof. Dr. Mário Jorge Sousa ([msousa@fe.up.pt](mailto:msousa@fe.up.pt))
-    - Prof. Dr. Nuno Flores ([nflores@fe.up.pt](mailto:nflores@fe.up.pt)) -->
+
+**Invited Assistant @**
+**[Faculty of Sciences, University of Porto (FCUP)](https://sigarra.up.pt/fcup/en/)**
+(Porto, Portugal)
+
+- February 2026 - August 2026
+- _Courses:_
+    - Introduction to Intelligent Robotics (BSc in IACD) ([2025/26 2ºS](https://sigarra.up.pt/fcup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=570363))
+- _Supervisors:_
+    - Prof. Dr. Armando Jorge Sousa ([asousa@fe.up.pt](mailto:asousa@fe.up.pt))
 
 ## Education
 
