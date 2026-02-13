@@ -84,6 +84,14 @@ extra:
       link: https://www.youtube.com/channel/UCqGAuSvxXoLepWwcWZeTE8g
       name: YouTube Channel @JorgeDRibeiro
 
+extra_javascript:
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
+  - stylesheets/extra.css
+
 # Markdown extensions
 markdown_extensions:
   - abbr
@@ -119,6 +127,7 @@ markdown_extensions:
       base_path: "jorgedfr/jorgedfr.github.io"
       relative_path: ""
       absolute: false
+
 nav:
   - Home: index.md
   - CV: cv.md
@@ -136,14 +145,9 @@ nav:
         - Remote Access: tools/os/remote-access.md
         - Development Environment: tools/os/dev.md
     - Git: tools/git.md
-    - Docker:
-        - tools/docker/index.md
-        - ROS: tools/docker/ros.md
-
-extra_javascript:
-  - https://unpkg.com/katex@0/dist/katex.min.js
-  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
-
-extra_css:
-  - https://unpkg.com/katex@0/dist/katex.min.css
-  - stylesheets/extra.css
+    - Containerization:
+        - tools/containerization/index.md
+        - Docker: tools/containerization/docker.md
+        - Podman: tools/containerization/podman.md
+        - Nvidia Container Toolkit: tools/containerization/nvidia.md
+        - ROS: tools/containerization/ros.md
