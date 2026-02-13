@@ -28,13 +28,29 @@ sudo apt install -y nvidia-container-toolkit
 
 ## Setup
 
-=== "Setup (Docker)"
+=== "Docker"
     ```sh
     sudo nvidia-ctk runtime configure --runtime=docker
     sudo systemctl restart docker
     ```
 
-=== "Setup (Podman)"
+=== "Podman"
+    Recent versions of Podman use CDI (Container Device Interface).
+    In most cases, no additional runtime configuration is required.
+
+    !!! warning "Generate CDI specifications manually if necessary"
     ```sh
     sudo nvidia-ctk cdi generate --output=/etc/cdi/nvidia.yaml
+    ```
+
+## Verify
+
+=== "Docker"
+    ```sh
+    docker run --rm --gpus all nvidia/cuda:12.3.2-base-ubuntu22.04 nvidia-smi
+    ```
+
+=== "Podman"
+    ```sh
+    podman run --rm --device nvidia.com/gpu=all nvidia/cuda:12.3.2-base-ubuntu22.04 nvidia-smi
     ```

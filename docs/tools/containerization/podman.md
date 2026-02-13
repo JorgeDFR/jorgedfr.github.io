@@ -32,10 +32,10 @@ sudo apt -y install podman-docker podman-compose
 systemctl --user enable podman.socket
 ```
 
-## Hello World
+## Verify
 
 ```sh
-docker --version
-docker info
-docker run hello-world
+podman --version
+podman info
+podman run hello-world
 ```
