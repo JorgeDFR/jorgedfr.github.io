@@ -75,7 +75,7 @@ extra:
       link: https://orcid.org/0009-0008-9373-982X
       name: ORCiD
     - icon: fontawesome/brands/google-scholar
-      link: https://scholar.google.pt/citations?user=xp6I4DMAAAAJ&hl
+      link: https://scholar.google.pt/citations?user=xp6I4DMAAAAJ
       name: Google Scholar
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jorge-diogo-ribeiro

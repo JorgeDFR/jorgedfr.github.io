@@ -7,7 +7,7 @@
 - CiênciaVITAE: [E415-F9DE-95FC](https://www.cienciavitae.pt/E415-F9DE-95FC)
 - ORCiD: [0009-0008-9373-982X](https://orcid.org/0009-0008-9373-982X)
 - AuthenticusID: [R-00M-0N0](https://www.authenticus.pt/R-00M-0N0)
-- Google Scholar: [xp6I4DMAAAAJ&hl](https://scholar.google.com/citations?user=xp6I4DMAAAAJ&hl)
+- Google Scholar: [xp6I4DMAAAAJ](https://scholar.google.com/citations?user=xp6I4DMAAAAJ)
 - Scopus Author ID: [59761532800](https://www.scopus.com/authid/detail.uri?authorId=59761532800)
 - Researcher ID: [NTQ-5036-2025](https://www.webofscience.com/wos/author/record/NTQ-5036-2025)
 
