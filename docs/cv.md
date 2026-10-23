@@ -50,11 +50,13 @@
 (Porto, Portugal)
 
 - September 2024 - Present
-<!-- - _GPA:_ ???/20 (curricular courses) -->
-<!-- - PhD Thesis in ???
+- _GPA:_ 18.55/20 (curricular courses)
+- PhD Thesis: _Long-Term Localization and Navigation for Autonomous Mobile Robots_
 - _Supervisors:_
+    - Prof. Dr. Armando Jorge Sousa
+      ([asousa@fe.up.pt](mailto:asousa@fe.up.pt))
     - Héber Miguel Sobreira, PhD
-      ([heber.m.sobreira@inesctec.pt](mailto:heber.m.sobreira@inesctec.pt)) -->
+      ([heber.m.sobreira@inesctec.pt](mailto:heber.m.sobreira@inesctec.pt))
 
 **MSc in ECE @**
 **[Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/)**
